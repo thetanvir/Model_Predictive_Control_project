@@ -1,4 +1,4 @@
-**Model Predictive Control Implementation**
+**Model Predictive Control (MPC) for SISO and MIMO Systems**
 
 Developed the project to understand Model Predictive Control (MPC) concepts. Two systems are implemented here: a basic single-input-single-output (SISO) system and a more complex multi-input-multi-output (MIMO) system. The simulations were created using Python with the do_mpc library.
 
